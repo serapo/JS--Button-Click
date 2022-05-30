@@ -1,3 +1,3 @@
 # JS--Button-Click
 
-![](intro.gif)
+![](JS-Button.gif)
